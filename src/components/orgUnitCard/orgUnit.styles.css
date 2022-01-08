@@ -1,0 +1,23 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    /* blue/blue050 */
+    background: #F5FBFF;
+    /* blue/blue200 */
+    border: 2px solid #C5E3FC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.card-container:hover {
+    transform:scale(1.05);
+}
+img {
+    width:180px;
+    height:180px;
+    border-radius: 43px;
+}

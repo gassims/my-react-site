@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+#title {
+  font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 120px;
+line-height: 145px;
+
+color: #FFFFFF;
+  
+}
