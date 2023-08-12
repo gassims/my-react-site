@@ -1,6 +1,6 @@
 {
-  "name": "monsters-rolodex",
-  "version": "0.1.0",
+  "name": "country-list",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://gassims.github.io/my-react-site",
   "dependencies": {
